@@ -62,7 +62,7 @@ export default function Header() {
         </Toolbar>
       </AppBar>
       {/* <div style={{ "marginTop":"10px", "paddingRight":"5%", "display":"flex","alignItems":"center", "justifyContent":"flex-end","width":"95%", "color":"#EA4335" }}>
-        <AccountCircleIcon fontSize="large" /> {User ?  User.displayName : "Someone" }
+        <AccountCircleIcon fontSize="large" /> {User ?  User.displayName : "Student" }
         </div> */}
     </div>
   );
